@@ -1,4 +1,3 @@
-<img width="800" height="1000" alt="RedBus Flowchart" src="https://github.com/user-attachments/assets/3c564eb9-779a-40a6-9426-f609ddf638c2" />
 🚍 RedBus Ticket Booking System – Java JDBC Project
 
 A console-based RedBus-like ticket booking application built using Java, JDBC, and MySQL, following MVC architecture with a modular package structure.
@@ -114,6 +113,7 @@ Run:
 DashBoard.java
 
 📊 Application Flowchart
+<img width="800" height="1000" alt="RedBus Flowchart" src="https://github.com/user-attachments/assets/3c564eb9-779a-40a6-9426-f609ddf638c2" />
 
 GitHub supports Mermaid syntax.
 
